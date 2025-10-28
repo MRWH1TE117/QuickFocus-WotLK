@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: Quick Focus (ALT + PPM)
+## Notes: Faster focus with just ALT + PPM out of combat.
+## Author: MRWH1TE117
+## Version: 1.0
+QuickFocus.lua
